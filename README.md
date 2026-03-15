@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sumit Kumar Prasad!
 
-🎓 First-year B.Tech student at Vellore Institute of Technology, Chennai  
+🎓 B.Tech student at Vellore Institute of Technology, Chennai  
 💻 Branch: CSE - Artificial Intelligence and Machine Learning  
 ---
 
